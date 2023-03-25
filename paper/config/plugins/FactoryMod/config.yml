@@ -735,6 +735,7 @@ factories:
         material: LEATHER
         amount: 32
     recipes:
+      - make_bucket_of_tropical_fish
       - make_saddle
       - make_lead
       - make_bio_component
